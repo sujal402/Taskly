@@ -9,10 +9,10 @@ Firebase is used for **user authentication**, and MongoDB is used to store user 
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Authentication:** Firebase  
+- Frontend: React, Tailwind CSS  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Authentication: Firebase  
 
 ---
 
